@@ -1,0 +1,32 @@
+a{
+    margin-right: 25px;
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+}
+p{
+    background-color:darkgreen;
+    padding: 15px;
+    text-align: right;
+    border: 3px solid gold;
+    border-bottom: 3px solid gold;
+}
+img{
+    display: block;
+    width: 50%;
+    margin: auto;
+    border: 3px solid darkgreen;
+    border-radius: 50%;
+    box-shadow: 20px 20px 20px black; 
+}
+table{
+    border: 2px solid darkgreen;
+    border-collapse: collapse;
+}
+td{
+    border:2px solid darkgreen;
+    padding: 5px;
+}
+tr:nth-child(odd){
+    background-color: aqua;
+}
