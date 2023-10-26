@@ -4,6 +4,9 @@ a{
     color: white;
     font-size: 22px;
 }
+.a1{
+    color: gold;
+}
 p{
     background-color:darkgreen;
     padding: 15px;
@@ -29,4 +32,8 @@ td{
 }
 tr:nth-child(odd){
     background-color: aqua;
+}
+a:hover{
+    background-color: gold;
+    color: black;
 }
